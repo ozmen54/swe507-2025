@@ -22,8 +22,8 @@ Please click the link below to see the projects: <br>
         <b>c)</b> Repeat the experiment above using Java threads. <br> 
         <b>d)</b> Comment on execution times and speedup achieved using multiple threads. 
       </td>
-      <td></td>
-      <td></a></td>
+      <td>22 March 2024 in class</td>
+      <td><a href="pro1.pdf">Project 1</a></td>
     </tr>
     <tr>
       <td>2</td>
