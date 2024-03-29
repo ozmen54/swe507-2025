@@ -27,12 +27,12 @@ Please click the link below to see the projects: <br>
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Distributed parallel computing using MPI .</b></td>
+      <td><b>Distributed parallel computing using MPI.</b></td>
       <td>
-        <b>a) Do the experiments 1, 2, 4 and 8 processes on local computer.</b> <br> 
-        <b>b) Check the correctnes and measure the performnce.</b> <br>
-        <b>c) Create a EC2 MPI cluster on AWS, move your source code to AWS.</b> <br>
-        <b>d) Compare local runs with ASW cluster runs and comment the results.</b> 
+        <b>a)</b> Do the experiments 1, 2, 4 and 8 processes on local computer. <br> 
+        <b>b)</b> Check the correctnes and measure the performnce.<br>
+        <b>c)</b> Create a EC2 MPI cluster on AWS, move your source code to AWS. <br>
+        <b>d)</b> Compare local runs with ASW cluster runs and comment the results.<br> 
       </td>
       <td>19 April 2024 in class</td>
       <td><a href="pro2.pdf">Project2</a></td>
