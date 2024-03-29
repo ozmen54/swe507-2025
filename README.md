@@ -23,19 +23,19 @@ Please click the link below to see the projects: <br>
         <b>d)</b> Comment on execution times and speedup achieved using multiple threads. 
       </td>
       <td>22 March 2024 in class</td>
-      <td><a href="pro1.pdf">Project 1</a></td>
+      <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Scheduling a task graph.</b></td>
+      <td><b>Distributed parallel computing using MPI .</b></td>
       <td>
-        <b>a)</b> <br> 
-        <b>b)</b> <br>
-        <b>c)</b> <br>
-        <b>d)</b> 
+        <b>a) Do the experiments 1, 2, 4 and 8 processes on local computer.</b> <br> 
+        <b>b) Check the correctnes and measure the performnce.</b> <br>
+        <b>c) Create a EC2 MPI cluster on AWS, move your source code to AWS.</b> <br>
+        <b>d) Compare local runs with ASW cluster runs and comment the results.</b> 
       </td>
-      <td> </td>
-      <td></td>
+      <td>19 April 2024 in class</td>
+      <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
       <td>3</td>
