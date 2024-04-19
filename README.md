@@ -40,20 +40,19 @@ Please click the link below to see the projects: <br>
     </tr>
     <tr>
       <td>3</td>
-      <td><b>CUDA app on that runs on NVIDIA GPUs</b></td>
+      <td><b>Parallel application development using OpenMP</b></td>
       <td>
-        <b>a)</b> <br>
-        <b>b)</b>  <br>
-        <b>c)</b>  <br>
-        <b>d)</b>  <br>
-        <b>e)</b> 
+        <b>a)</b> Do sequential computation, take timestamps as shown in the class. Repeat experiment 5 times. Take average execution time.<br> 
+        <b>b)</b> Do the same computation with 2, 4, 8 and 16 threads. Repeat experiment 5 times. Take average execution time. <br> 
+        <b>c)</b> Repeat the experiment above using Pthreads. <br> 
+        <b>d)</b> Comment on efforts to accomplish the task and execution times using multiple threads. 
       </td>
-      <td></td>
-      <td></td>
+      <td>19 April 2024 in class</td>
+      <td><a href="pro2.pdf">Project2</a></td>
     </tr>
      <tr>
       <td>4</td>
-      <td><b>Parallel application development using OpenMP</b></td>
+      <td><b>CUDA app on that runs on NVIDIA GPUs</b></td>
       <td>
         <b>a)</b> <br>
         <b>b)</b>  <br>
