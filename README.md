@@ -74,7 +74,7 @@ Please click the link below to see the projects: <br>
         <b>e)</b> Discuss about the complexity that comes with parallelism.
       </td>
       <td>31 May 2024 in class<br>(Last week)</td>
-      <td><a href="pro5.pdf">Project4</a></td>
+      <td><a href="pro5.pdf">Project5</a></td>
     </tr>
 
   </body>
