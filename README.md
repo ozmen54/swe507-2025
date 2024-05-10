@@ -52,20 +52,20 @@ Please click the link below to see the projects: <br>
     </tr>
      <tr>
       <td>4</td>
-      <td><b>CUDA app on that runs on NVIDIA GPUs</b></td>
+      <td><b>Profiling and performance improvements</b></td>
       <td>
-        <b>a)</b> <br>
-        <b>b)</b>  <br>
-        <b>c)</b>  <br>
-        <b>d)</b>  <br>
-        <b>e)</b> 
+        <b>a) Implement a sequential solution to the image processing problem.</b> <br>
+        <b>b) Measure the performance of your implementation.</b>  <br>
+        <b>c) Profile the execution, find possible improvement points.</b>  <br>
+        <b>d) Do possible improvements and measure the performance again.</b>  <br>
+        <b>e) Discuss about parallelization of your solution. Which method would be the best?</b> 
       </td>
-      <td></td>
-      <td></td>
+      <td>24 May 2024 in class</td>
+      <td><a href="pro4.pdf">Project4</a></td>
     </tr>
      <tr>
       <td>5</td>
-      <td><b>Parallel application development using Threads + MPI</b></td>
+      <td><b>Parallel image processing application on GPU</b></td>
       <td>
         <b>a)</b> <br>
         <b>b)</b>  <br>
