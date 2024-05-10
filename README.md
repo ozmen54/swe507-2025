@@ -54,11 +54,11 @@ Please click the link below to see the projects: <br>
       <td>4</td>
       <td><b>Profiling and performance improvements</b></td>
       <td>
-        <b>a) Implement a sequential solution to the image processing problem.</b> <br>
-        <b>b) Measure the performance of your implementation.</b>  <br>
-        <b>c) Profile the execution, find possible improvement points.</b>  <br>
-        <b>d) Do possible improvements and measure the performance again.</b>  <br>
-        <b>e) Discuss about parallelization of your solution. Which method would be the best?</b> 
+        <b>a)</b> Implement a sequential solution to the image processing problem. <br>
+        <b>b)</b> Measure the performance of your implementation. <br>
+        <b>c)</b> Profile the execution, find possible improvement points.  <br>
+        <b>d)</b> Do possible improvements and measure the performance again. <br>
+        <b>e)</b> Discuss about parallelization of your solution. Which method would be the best? 
       </td>
       <td>24 May 2024 in class</td>
       <td><a href="pro4.pdf">Project4</a></td>
@@ -67,14 +67,14 @@ Please click the link below to see the projects: <br>
       <td>5</td>
       <td><b>Parallel image processing application on GPU</b></td>
       <td>
-        <b>a)</b> <br>
-        <b>b)</b>  <br>
-        <b>c)</b>  <br>
-        <b>d)</b>  <br>
-        <b>e)</b> 
+        <b>a)</b> Implement a parallel solution to the same problem of the previous image processing problem. <br>
+        <b>b)</b> What are your motivations selecting the parallel method. <br>
+        <b>c)</b> Measure the performance of your implementation. <br>
+        <b>d)</b> Compare the performance of your implementation with the serial one. <br>
+        <b>e)</b> Discuss about the complexity that comes with parallelism.
       </td>
-      <td><br>(Last week)</td>
-      <td></td>
+      <td>31 May 2024 in class<br>(Last week)</td>
+      <td><a href="pro5.pdf">Project4</a></td>
     </tr>
 
   </body>
