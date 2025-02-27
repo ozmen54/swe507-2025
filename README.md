@@ -60,7 +60,7 @@ Please click the link below to see the projects: <br>
         <b>d)</b> Do possible improvements and measure the performance again. <br>
         <b>e)</b> Discuss about parallelization of your solution. Which method would be the best? 
       </td>
-      <td>24 May 2024 in class</td>
+      <td>02 May 2025 in class</td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
      <tr>
@@ -73,7 +73,7 @@ Please click the link below to see the projects: <br>
         <b>d)</b> Compare the performance of your implementation with the serial one. <br>
         <b>e)</b> Discuss about the complexity that comes with parallelism.
       </td>
-      <td>31 May 2024 in class<br>(Last week)</td>
+      <td>23 May 2025 in class<br>(Last week)</td>
       <td><a href="pro5.pdf">Project5</a></td>
     </tr>
 
