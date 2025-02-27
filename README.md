@@ -35,7 +35,7 @@ Please click the link below to see the projects: <br>
         <b>d)</b> Build your application on the cloud, run it 2, 4 and 8 CPUs, measure the performance. <br>
         <b>e)</b> Compare local runs with ASW cluster runs and comment the results.<br> 
       </td>
-      <td>19 April 2024 in class</td>
+      <td>28 March 2025 in class</td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
