@@ -18,8 +18,8 @@ Please click the link below to see the projects: <br>
       <td><b>Thread programming on multi-core CPU.</b></td>
       <td> 
         <b>a)</b> Do sequential computation, take timestamps as shown in the class. Repeat experiment 5 times. Take average execution time.<br> 
-        <b>b)</b> Do the same computation with 2, 4, 8 and 16 threads. Repeat experiment 5 times. Take average execution time. <br> 
-        <b>c)</b> Repeat the experiment above using Java threads. <br> 
+        <b>b)</b> Do the same computation with 1, 3, 9 and 12 threads.  <br> 
+        <b>c)</b> Repeat experiments 5 times, and take the average execution time. <br> 
         <b>d)</b> Comment on execution times and speedup achieved using multiple threads. 
       </td>
       <td>07 March 2025 in class</td>
