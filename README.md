@@ -47,7 +47,7 @@ Please click the link below to see the projects: <br>
         <b>c)</b> Repeat the experiment above using Pthreads. <br> 
         <b>d)</b> Comment on efforts to accomplish the task and execution times using multiple threads. 
       </td>
-      <td>18 April 2025 in class</td>
+      <td>25 April 2025 in class</td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
      <tr>
