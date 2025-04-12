@@ -64,7 +64,7 @@ Please click the link below to see the projects: <br>
     </tr>
      <tr>
       <td>5</td>
-      <td><b></b></td>
+      <td><b></b>Distributed parallel computing with Apache-Hadoop. </td>
       <td>
         <b>a)</b> Implement a parallel solution to the same problem of the previous image processing problem. <br>
         <b>b)</b> What are your motivations selecting the parallel method. <br>
