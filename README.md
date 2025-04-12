@@ -64,13 +64,13 @@ Please click the link below to see the projects: <br>
     </tr>
      <tr>
       <td>5</td>
-      <td><b></b>Distributed parallel computing with Apache-Hadoop. </td>
+      <td><b>Distributed parallel computing with Apache-Hadoop. </b></td>
       <td>
-        <b>a)</b> Implement a parallel solution to the same problem of the previous image processing problem. <br>
-        <b>b)</b> What are your motivations selecting the parallel method. <br>
-        <b>c)</b> Measure the performance of your implementation. <br>
-        <b>d)</b> Compare the performance of your implementation with the serial one. <br>
-        <b>e)</b> Discuss about the complexity that comes with parallelism.
+        <b>a)</b> Install Apache-Hadoop and HDFS as single node cluster on your computer. <br>
+        <b>b)</b> Implement a Java solution to the same problem of the previous image processing problem. <br>
+        <b>c)</b> Obtain the Jar file and move it under HDFS. <br>
+        <b>d)</b> Show that your solution work using Hadoop Map-Reduce approach. <br>
+        <b>e)</b> Discuss about pros and cons of this approach. Check out Apache-Spark.
       </td>
       <td>23 May 2025 in class<br>(Last week)</td>
       <td><a href="pro5.pdf">Project5</a></td>
