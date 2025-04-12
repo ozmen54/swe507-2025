@@ -52,20 +52,19 @@ Please click the link below to see the projects: <br>
     </tr>
      <tr>
       <td>4</td>
-      <td><b>Profiling and performance improvements</b></td>
+      <td><b>Parallel image processing application on GPU</b></td>
       <td>
-        <b>a)</b> Implement a sequential solution to the image processing problem. <br>
+        <b>a)</b> Implement a vector parallel solution to the problem using Cuda. <br>
         <b>b)</b> Measure the performance of your implementation. <br>
-        <b>c)</b> Profile the execution, find possible improvement points.  <br>
-        <b>d)</b> Do possible improvements and measure the performance again. <br>
-        <b>e)</b> Discuss about parallelization of your solution. Which method would be the best? 
+        <b>c)</b> Compare the performance of your implementation with the serial one.  <br>
+        <b>d)</b> Discuss parallelization of your solution.  
       </td>
-      <td>02 May 2025 in class</td>
+      <td>09 May 2025 in class</td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
      <tr>
       <td>5</td>
-      <td><b>Parallel image processing application on GPU</b></td>
+      <td><b></b></td>
       <td>
         <b>a)</b> Implement a parallel solution to the same problem of the previous image processing problem. <br>
         <b>b)</b> What are your motivations selecting the parallel method. <br>
